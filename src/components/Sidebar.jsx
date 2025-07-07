@@ -78,6 +78,7 @@ const Sidebar = ({ onDownload }) => {
           fontWeight: 'bold',
           marginBottom: '30px',
           color: '#333',
+          marginTop: '-10px',
         }}
       >
         Cricket Field Strategizer Controls
