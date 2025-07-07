@@ -1,0 +1,16 @@
+.div {
+  background: repeating-radial-gradient(
+    circle at bottom right,
+    #eee,
+    #ccc 50px
+  );
+}
+
+.span {
+  background-image: linear-gradient(to right, #8bc34a, #edcd8b);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
