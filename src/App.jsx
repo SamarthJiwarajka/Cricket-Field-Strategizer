@@ -76,6 +76,7 @@ function App() {
             fontSize: '20px',
             marginTop: '-10px',
             marginLeft: '-8px',
+            height: '100px',
           }}
           className="span"
         >
