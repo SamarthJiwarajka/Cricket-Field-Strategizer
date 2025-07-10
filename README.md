@@ -19,7 +19,8 @@ It downloads a PNG or JPEG (Basis your choice) with only and only the cricket fi
 It all comes out looking like this:
 
 
-![cricket_field_strategy](https://github.com/user-attachments/assets/bcd8bf6d-58c8-4cae-94a4-45648ef4dfee)
+![cricket_field_strategy](https://github.com/user-attachments/assets/6c01ed68-3348-4b89-bf1c-d6395c84cdad)
+
 
 
 ## So, Ready to use the Cricket Field Strategizer?
